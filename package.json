@@ -1,6 +1,5 @@
 {
     "name": "tic-tac-toe",
-    "main": "index.js",
     "devDependencies": {
         "@babel/core": "^7.1.6",
         "@babel/preset-env": "^7.1.6",
