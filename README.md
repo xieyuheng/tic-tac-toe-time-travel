@@ -2,5 +2,5 @@
 
 ```
 npm install
-npx webpack-dev-server
+npm run start
 ```
